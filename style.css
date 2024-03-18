@@ -1,0 +1,18 @@
+#main_title{
+    text-align: center;
+    background-color: #006b36;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.box1 button{
+    float: left;
+}
+.box1 h2{
+    float: center;
+}
+.container{
+    margin-top: 50px;
+}
